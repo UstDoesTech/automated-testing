@@ -1,0 +1,16 @@
+C:\Users\ujo.ACL\source\repos\ConsoleApp1\TestDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ujo.ACL\source\repos\ConsoleApp1\TestDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ujo.ACL\source\repos\ConsoleApp1\TestDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ujo.ACL\source\repos\ConsoleApp1\TestDemoTests\bin\Debug\TestDemoTests.dll
+C:\Users\ujo.ACL\source\repos\ConsoleApp1\TestDemoTests\bin\Debug\TestDemoTests.pdb
+C:\Users\ujo.ACL\source\repos\ConsoleApp1\TestDemoTests\bin\Debug\ClassLibrary1.dll
+C:\Users\ujo.ACL\source\repos\ConsoleApp1\TestDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ujo.ACL\source\repos\ConsoleApp1\TestDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ujo.ACL\source\repos\ConsoleApp1\TestDemoTests\bin\Debug\ClassLibrary1.pdb
+C:\Users\ujo.ACL\source\repos\ConsoleApp1\TestDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ujo.ACL\source\repos\ConsoleApp1\TestDemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ujo.ACL\source\repos\ConsoleApp1\TestDemoTests\obj\Debug\TestDemoTests.csprojAssemblyReference.cache
+C:\Users\ujo.ACL\source\repos\ConsoleApp1\TestDemoTests\obj\Debug\TestDemoTests.csproj.CoreCompileInputs.cache
+C:\Users\ujo.ACL\source\repos\ConsoleApp1\TestDemoTests\obj\Debug\TestDemoTests.csproj.CopyComplete
+C:\Users\ujo.ACL\source\repos\ConsoleApp1\TestDemoTests\obj\Debug\TestDemoTests.dll
+C:\Users\ujo.ACL\source\repos\ConsoleApp1\TestDemoTests\obj\Debug\TestDemoTests.pdb
